@@ -6,7 +6,7 @@
 
 - Quiz app that uses [Trivia Api](https://opentdb.com/api_config.php)
 
-###### For Netlify upload
+#### For Netlify upload
 
 - in package.json => in "scripts": => "build": "CI= react-scripts build"
 - in public => create new file \_redirects and inside: /\* /index.html 200
@@ -15,10 +15,10 @@
 
 1. I had a problem with the global uninstall of the old create-react-app version.
 
-- First run in the computer terminal (I think that solve the problem):
+- First run in the computer terminal (I think that solved the problem):
   - npm install create-react-app
   - npx create-react-app project-name.
-- Then: npx create-react-app my-app --template typescript
+- Then: npx create-react-app project-name --template typescript
 
 2. Error "Cannot use JSX unless the '--jsx' flag is provided"
 
