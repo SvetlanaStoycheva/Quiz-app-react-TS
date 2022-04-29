@@ -2,7 +2,7 @@
 
 #### [tutorial>>>](https://www.youtube.com/watch?v=SdOtuCdTdq8&list=WL&index=47&t=1702s)
 
-#### [see project]()
+#### [see project](https://sweta-quiz-app-react-ts.netlify.app)
 
 - Quiz app that uses [Trivia Api](https://opentdb.com/api_config.php)
 
@@ -25,10 +25,14 @@
 - Adding "jsx": "preserve" to tsconfig.json will bypass the warning
 
 <p align-items: center>
-    <img src='./readme-images/Screenshot-image_01.png' width='250'>
+    <img src='./src/images/Screenshot-image_01.png' width='250'>
 </p>
 <br/>
 <p align-items: center>
-    <img src='./readme-images/Screenshot-image_02.png' width='250'>
+    <img src='./src/images/Screenshot-image_02.png' width='250'>
+</p>
+<br/>
+<p align-items: center>
+    <img src='./src/images/Screenshot-image_03.png' width='250'>
 </p>
 <br/>
